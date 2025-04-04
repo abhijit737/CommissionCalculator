@@ -1,0 +1,74 @@
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.csproj.AssemblyReference.cache
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.AssemblyInfoInputs.cache
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.AssemblyInfo.cs
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.csproj.CoreCompileInputs.cache
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.sourcelink.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\appsettings.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.staticwebassets.endpoints.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.exe
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.deps.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.runtimeconfig.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.dll
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.pdb
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\scopedcss\bundle\CommissionCalculatorWithDotnetAndReact.styles.css
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.CommissionCalculatorWithDotnetAndReact.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.CommissionCalculatorWithDotnetAndReact.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.build.CommissionCalculatorWithDotnetAndReact.props
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CommissionCalculatorWithDotnetAndReact.props
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CommissionCalculatorWithDotnetAndReact.props
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\Commissi.A401E105.Up2Date
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.dll
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\refint\CommissionCalculatorWithDotnetAndReact.dll
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.pdb
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.genruntimeconfig.cache
+C:\Users\Abhijit M\source\repos\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\ref\CommissionCalculatorWithDotnetAndReact.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\appsettings.Development.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\appsettings.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.staticwebassets.endpoints.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.exe
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.deps.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.runtimeconfig.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.pdb
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.csproj.AssemblyReference.cache
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.AssemblyInfoInputs.cache
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.AssemblyInfo.cs
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.csproj.CoreCompileInputs.cache
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.MvcApplicationPartsAssemblyInfo.cs
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.MvcApplicationPartsAssemblyInfo.cache
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\scopedcss\bundle\CommissionCalculatorWithDotnetAndReact.styles.css
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.build.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.development.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.CommissionCalculatorWithDotnetAndReact.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.CommissionCalculatorWithDotnetAndReact.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.build.CommissionCalculatorWithDotnetAndReact.props
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CommissionCalculatorWithDotnetAndReact.props
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CommissionCalculatorWithDotnetAndReact.props
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\Commissi.A401E105.Up2Date
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\refint\CommissionCalculatorWithDotnetAndReact.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.pdb
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.genruntimeconfig.cache
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\ref\CommissionCalculatorWithDotnetAndReact.dll
+D:\CompanyExam\CommissionCalculatorWithDotnetAndReact\obj\Debug\net8.0\CommissionCalculatorWithDotnetAndReact.sourcelink.json
