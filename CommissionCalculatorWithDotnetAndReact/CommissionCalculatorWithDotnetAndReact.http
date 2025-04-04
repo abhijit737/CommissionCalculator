@@ -1,0 +1,6 @@
+@CommissionCalculatorWithDotnetAndReact_HostAddress = http://localhost:5193
+
+GET {{CommissionCalculatorWithDotnetAndReact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
