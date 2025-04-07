@@ -1,6 +1,6 @@
-# Commission Calculator with React and .NET
+# Commission Calculator with React and .NETCORE_WEBAPI
 
-This project integrates React and .NET for commission calculation.
+This project integrates React and .NETCORE for commission calculation.
 
 ## 📌 Application Screenshot
 
